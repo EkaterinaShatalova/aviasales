@@ -14,6 +14,4 @@ inputCitiesFrom.addEventListener("input", () => {
 //   //console.log(json);
 //  });;
 
-
-
-const 
+const button = document.querySelector(".button__search");
